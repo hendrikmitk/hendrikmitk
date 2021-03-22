@@ -7,6 +7,7 @@
 - 💪 Passionate about building websites, apps and everything in between
 - 👁 Currently looking for a position as a front-end or full-stack developer
 
-###### Contact
+##### Contact
 
-📫 Email: [hi@hendrikharlichs.de](mailto:hi@hendrikharlichs.de) | 🌐 Web: [www.hendrikharlichs.de](https://www.hendrikharlichs.de)
+- 📫 Email: [hi@hendrikharlichs.de](mailto:hi@hendrikharlichs.de)
+- 🌐 Web: [www.hendrikharlichs.de](https://www.hendrikharlichs.de)
