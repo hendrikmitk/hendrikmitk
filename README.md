@@ -1,4 +1,4 @@
-### Hi there, my name is Hendrik 👋
+### Hi there, my name is Hendrik Harlichs 👋
 
 - ⚓️ Web developer based in Hamburg, Germany
 - 🧑‍💻 Loves to work with HTML, CSS/Sass and Javascript
