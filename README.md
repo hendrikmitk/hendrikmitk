@@ -9,5 +9,9 @@
 
 ##### Contact
 
+📫 Email: [hi@hendrikharlichs.de](mailto:hi@hendrikharlichs.de) | 🌐 Web: [www.hendrikharlichs.de](https://www.hendrikharlichs.de)
+
+📫 **Email** [hi@hendrikharlichs.de](mailto:hi@hendrikharlichs.de) | 🌐 **Web** [www.hendrikharlichs.de](https://www.hendrikharlichs.de)
+
 - 📫 Email: [hi@hendrikharlichs.de](mailto:hi@hendrikharlichs.de)
 - 🌐 Web: [www.hendrikharlichs.de](https://www.hendrikharlichs.de)
